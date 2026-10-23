@@ -1,3 +1,6 @@
+[build.environment]
+PNPM_VERSION = "12.3.4"
+
 [functions]
 included_files = ["node_modules/.geo/**"]
 
